@@ -70,12 +70,11 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ## Program
 
 ### Developed By:
-**Name:** ____________________________  
+**Name: AKASH CT**
 
-### Register No:
+### Register No:212224240007
 ____________________________  
 
----
 
 ##  Output
 
